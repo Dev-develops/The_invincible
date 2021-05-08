@@ -1,9 +1,2 @@
 node_modules
 uploads
-
-src/controllers/area.js
-src/controllers/machinery.js
-src/controllers/project.js
-src/controllers/uploads.js
-src/controllers/users.js
-src/controllers/zone.js
