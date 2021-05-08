@@ -1,6 +1,5 @@
 node_modules
 uploads
-nodemon.json
 
 src
 app.js
